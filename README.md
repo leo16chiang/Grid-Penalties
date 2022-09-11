@@ -10,3 +10,7 @@ Create a list of tuples of the driver and their associated grid penalty
 
 Enter the values into the function and you should get the actual starting order for the race
 
+# TODO:
+See if you can retreive qualifying order and penalties from Formula 1 API
+
+Deploy App
